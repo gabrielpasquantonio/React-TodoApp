@@ -8,6 +8,7 @@
 
 <ul>
   <li><a href="https://reactjs.org/">React</a></li>
+  <li><a href="https://firebase.google.com/?hl=pt-br">Firebase</a></li>
 </ul>
 
 ## ⚙️ Requirements
