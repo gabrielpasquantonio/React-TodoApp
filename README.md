@@ -1,6 +1,6 @@
 # <div align="center">📋 React To-Do List</div>
 <a href="https://todoapp-5aa6c.web.app/>
-<img src="./.github/main.png" />
+<img src="./main.png" />
                              </a>
 <p align="center">A simple, volatile to-do list application built with React and Hooks 📋</p>
 
@@ -21,7 +21,7 @@
 ## 🚀 Installation
 
 ```
-$ git clone https://github.com/gabrielsanttana/react-todolist
+$ git clone https://github.com/gabrielpasquantonio/React-TodoApp.git
 $ cd react-todolist
 $ npm install
 $ npm start
