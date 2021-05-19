@@ -1,5 +1,5 @@
 # <div align="center">📋 React To-Do List</div>
-<a href="https://todoapp-5aa6c.web.app/>
+<a href="https://todoapp-5aa6c.web.app"/>
 <img src="./main.png" />
                              </a>
 <p align="center">A simple, volatile to-do list application built with React and Hooks 📋</p>
