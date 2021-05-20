@@ -2,7 +2,7 @@
 <a href="https://todoapp-5aa6c.web.app"/>
 <img src="./main.png" />
                              </a>
-<p align="center">A simple, volatile to-do list application built with React and Hooks 📋</p>
+<p align="center">A simple, volatile to-do list application built with React and Hooks 📋. It has all the CRUD functions, connected with firebase database</p>
 
 ## 🛠️ Technologies
 
