@@ -2,7 +2,7 @@
 <a href="https://todoapp-5aa6c.web.app"/>
 <img src="./main.png" />
                              </a>
-<p align="center">A simple, volatile to-do list application built with React and Hooks 📋. It has all the CRUD functions, connected with firebase database</p>
+<p align="center">Criptocoin tracker getting data from coingecko api with Axios, React and chartjs.</p>
 
 ## 🛠️ Technologies
 
